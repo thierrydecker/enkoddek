@@ -2,9 +2,9 @@
 
 ## Welcome to new comers
 
-First off, thank you for considering contributing to Myason.
+First off, thank you for considering contributing to Enkoddek.
 
-It's people like you that will make Myason a great tool.
+It's people like you that will make Enkoddek a great tool.
 
 ## Why you should read our guidelines
 
@@ -16,26 +16,24 @@ and helping you finalize your pull requests.
 
 ## Contributions we are looking for
 
-Myason is an open source project and we love to receive contributions from our community — you!
+Encoddek is an open source project and we love to receive contributions from our community — you!
 
 There are many ways to contribute, from writing tutorials or blog posts, improving the
 documentation, submitting bug reports and feature requests or writing code which can be
-incorporated into Myason itself.
+incorporated into Enkoddek itself.
 
 ## Contributions we are NOT looking for
 
 Please, don't use the issue tracker for support questions.
 
-If your problem is Python, Scapy, Twisted specific, Stack Overflow is worth considering.
+If your problem is Python, Stack Overflow is worth considering.
 
 # Our responsabilities
 
-* Ensure cross-platform compatibility for every change that's accepted. Windows, Mac,
-Debian & Ubuntu Linux.
-* Ensure that code that goes into core meets all requirements in 
-[this checklist](PULL_REQUEST_CHECKLIST.md)
+* Ensure cross-platform compatibility for every change that's accepted. Windows, Mac, Debian & Ubuntu Linux.
+* Ensure that code that goes into core meets all requirements in [this checklist](PULL_REQUEST_CHECKLIST.md)
 * Create issues for any major changes and enhancements that you wish to make.
-Discuss things transparently and get community feedback.
+* Discuss things transparently and get community feedback.
 * Don't add any classes to the codebase unless absolutely needed. Prefer using functions.
 * Keep feature versions as small as possible, preferably one new feature per version.
 * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds.
@@ -126,13 +124,14 @@ Here are a couple of friendly tutorials:
 
 Working on your first Pull Request?
 
-You can learn how from this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).  
+You can learn how from this *free* series, 
+[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).  
 
 At this point, you're ready to make your changes!
 Feel free to ask for help; everyone is a beginner at first!
 
-If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed,
-and that you need to update your branch so it's easier to merge.
+If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to 
+update your branch so it's easier to merge.
 
 # Getting started
 
@@ -148,11 +147,10 @@ For something that is bigger than a one or two line fix:
    * Note the Code of Conduct.
    * Send a pull request.
 
-Small contributions such as fixing spelling errors, where the content is small enough to not
-be considered intellectual property, can be submitted by a contributor as a patch.
+Small contributions such as fixing spelling errors, where the content is small enough to not be considered intellectual 
+property, can be submitted by a contributor as a patch.
 
-As a rule of thumb, changes are obvious fixes if they do not introduce any new functionality 
-or creative thinking.
+As a rule of thumb, changes are obvious fixes if they do not introduce any new functionality or creative thinking.
 
 As long as the change does not affect functionality, some likely examples include the following:
 
