@@ -22,8 +22,7 @@ If you're wondering why it takes so long for us to accept pull requests, this is
 - Review the changes carefully, line by line.
 - Make sure we understand every single part of every line.
 - Learn whatever we do not know yet.
-- Take the time to get things right. PRs almost always require additional improvements to meet the bar
-for quality.
+- Take the time to get things right. PRs almost always require additional improvements to meet the bar for quality.
 - Be very strict about quality.
 
 This usually takes several commits on top of the original PR.
